@@ -22,6 +22,7 @@ Scroll | `shift` + `mouse wheel`
 * [st-alpha-20180616-0.8.1](https://st.suckless.org/patches/alpha/)
 * [st-scrollback-0.8](https://st.suckless.org/patches/scrollback/)
 * [st-scrollback-mouse-0.8](https://st.suckless.org/patches/scrollback/)
+* [st-vertcenter-20180320-6ac8c8a](https://st.suckless.org/patches/vertcenter/)
 
 ##### Applying/Removing Patches
 ```
