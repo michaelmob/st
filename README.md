@@ -12,11 +12,14 @@ Paste       | `ctrl` + `shift` + `v`
 Zoom in     | `ctrl` + `+`
 Zoom out    | `ctrl` + `-`
 Reset zoom  | `ctrl` + `0`
+Scroll up   | `alt` + `k`
+Scroll down | `alt` + `j`
 
 #### Mouse
 Action | Modifier
 ---    | ---
-Scroll | `shift` + `mouse wheel`
+Slow Scroll | `alt` + `mouse wheel`
+Fast Scroll | `shift` + `mouse wheel`
 
 #### Patches
 * [st-alpha-20180616-0.8.1](https://st.suckless.org/patches/alpha/)
